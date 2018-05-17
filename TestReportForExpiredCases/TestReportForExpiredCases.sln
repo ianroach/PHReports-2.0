@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "TestReportForExpiredCases", "TestReportForExpiredCases\TestReportForExpiredCases.rptproj", "{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.Debug|Default.ActiveCfg = Debug
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.Debug|Default.Build.0 = Debug
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.Debug|Default.Deploy.0 = Debug
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.DebugLocal|Default.Build.0 = DebugLocal
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.Release|Default.ActiveCfg = Release
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.Release|Default.Build.0 = Release
+		{42DC3B6C-A0AB-4C6E-B1DC-838CF2EF2E1E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254DDE79-535F-4853-A8A9-1828A28EAE4F}
+	EndGlobalSection
+EndGlobal
